@@ -1,7 +1,7 @@
 --- 
 title: "IMPaC-TB: Integrated analysis and dynamical systems modeling of experimental TB immunology data"
 author: "Brooke Anderson PhD, Mike Lyons PhD, Amy Fox, Burton Karger"
-date: "`r Sys.Date()`"
+date: "2019-12-05"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -13,15 +13,11 @@ description: "Experiment guidebook"
 ---
 
 
-```{r eval=FALSE}
+
+```r
 install.packages("bookdown")
 # or the development version
 # devtools::install_github("rstudio/bookdown")
 ```
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+
