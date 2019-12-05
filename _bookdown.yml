@@ -1,10 +1,10 @@
 book_filename: "impactb_book"
 language:
   ui:
-    chapter_name: "01-intro.Rmd", "02-Day-233.Rmd", "03-Day-240.Rmd", "04-Day-242.Rmd", "05-Day-247.Rmd"
+    chapter_name: "Chapter"
 delete_merged_file: true
 output_dir: docs
 clean: [packages.bib, bookdown.bbl]
-rmd_files: ["index.Rmd", "01-intro.Rmd", "02-literature.Rmd", "03-method.Rmd", "04-application.Rmd", "05-summary.Rmd", "06-references.Rmd"]
+rmd_files: ["index.Rmd", "01-intro.Rmd", "02-Day-233.Rmd", "03-Day-240.Rmd", "04-Day-242.Rmd", "05-Day-247.Rmd", "06-references.Rmd"]
 new_session: yes
 repo: https://github.com/lyonsm7/impactb_book
