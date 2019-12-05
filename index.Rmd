@@ -1,7 +1,7 @@
 --- 
 title: "IMPaC-TB: Integrated analysis and dynamical systems modeling of
         experimental TB immunology data"
-author: "Brooke Anderson PhD, Mike Lyons PhD" 
+author: "Brooke Anderson PhD, Mike Lyons PhD, Amy Fox, Burton Karger"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
