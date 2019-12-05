@@ -3,6 +3,7 @@ bookdown::gitbook:
   split_by: chapter
   config:
     toc:
+      collapse: subsection
       before: |
         <li><a href="./">IMPAC-TB Lab Guidebook</a></li>
       after: |
@@ -15,4 +16,5 @@ bookdown::pdf_book:
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
-bookdown::epub_book: default
+bookdown::epub_book:
+  stylesheet: style.css
