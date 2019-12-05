@@ -13,11 +13,6 @@ description: "Impact lab guidebook"
 ---
 
 
-
-```r
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
+This is a laboratory guide book for the CSU IMPAC-TB experiments.
 
 
