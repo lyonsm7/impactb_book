@@ -1,6 +1,6 @@
 book_filename: "bookdown-demo"
 language:
   ui:
-    chapter_name: " "
+    chapter_name: "01-intro.Rmd", "02-Day-233.Rmd", "03-Day-240.Rmd", "04-Day-242.Rmd", "05-Day-247.Rmd"
 delete_merged_file: true
 output_dir: "docs"
