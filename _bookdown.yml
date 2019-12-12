@@ -5,6 +5,6 @@ language:
 delete_merged_file: true
 output_dir: docs
 clean: [packages.bib, bookdown.bbl]
-rmd_files: ["index.Rmd", "01-intro.Rmd", "02-Day-247.Rmd", "03-Day-242.Rmd", "04-Day-240.Rmd", "05-Day-233.Rmd", "06-references.Rmd", "07-Deaths.Rmd"]
+rmd_files: ["index.Rmd", "01-intro.Rmd", "02-Day-247.Rmd", "03-Day-242.Rmd", "04-Day-240.Rmd", "05-Day-233.Rmd", "06-Deaths.Rmd", "07-References.Rmd"]
 new_session: yes
 repo: https://github.com/lyonsm7/impactb_book
