@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  12 DEC 2019 10:25
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  12 DEC 2019 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -796,28 +796,32 @@ Chapter 5.
 
 ]
 Chapter 6.
-(./impactb_book.bbl [17] [18
+[17] [18
+
+]
+Chapter 7.
+(./impactb_book.bbl [19] [20
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 341.
-[19]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 341.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 349.
+[21]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 349.
 (./impactb_book.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 341.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 341.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 349.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 349.
 Package rerunfilecheck Info: File `impactb_book.out' has not changed.
-(rerunfilecheck)             Checksum: F5AC39AB0A58CBA154C12F2686FA0F81.
+(rerunfilecheck)             Checksum: BFE7E721ED8CC2A872935CDEF490D70A.
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 24027 strings out of 492916
- 449649 string characters out of 6133346
- 578656 words of memory out of 5000000
- 27851 multiletter control sequences out of 15000+600000
+ 24028 strings out of 492916
+ 449665 string characters out of 6133346
+ 578694 words of memory out of 5000000
+ 27852 multiletter control sequences out of 15000+600000
  545049 words of font info for 53 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  46i,8n,54p,809b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on impactb_book.pdf (19 pages).
+Output written on impactb_book.pdf (21 pages).
