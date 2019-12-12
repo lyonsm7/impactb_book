@@ -29,9 +29,9 @@ cell-mediated immunity that translates biologically-based hypotheses into a
 dynamical system of time-dependent mathematical equations that can be used to 
 simulate and test these hypotheses and to inform the design of subsequent experiments.
 
-<div class="figure">
-<img src="figures/Fig1.png" alt="Vodovotz et al." width="50%" />
-<p class="caption">(\#fig:framework)Vodovotz et al.</p>
+<div class="figure" style="text-align: center">
+<img src="figures/Fig1_Elements.png" alt="Elements of data analysis and modeling framework, Vodovotz et al." width="50%" />
+<p class="caption">(\#fig:framework)Elements of data analysis and modeling framework, Vodovotz et al.</p>
 </div>
 
 
@@ -65,6 +65,12 @@ reproducibility of the major results by each of the individual CSU
 investigators. This approach will ensure
 the integration and quality control of each component within the entire
 framework.
+
+<div class="figure" style="text-align: center">
+<img src="figures/Fig2_Approach.png" alt="Approach: Data and information flow in the iterative analysis platform" width="70%" />
+<p class="caption">(\#fig:approach)Approach: Data and information flow in the iterative analysis platform</p>
+</div>
+
 
 Immunology data is collected from each CSU mouse experiment as both quantitative
 measurements and
@@ -133,6 +139,12 @@ model elements that lead to model predictions that substantially disagree with c
 experimental results. These issues will require additional iterations of model development, including
 possible new and targeted experimental studies.
 Schedule. The schedule for completion and delivery of items specified in the statement of work is shown in the table below, where arrows denote the duration and expected completion date.
+
+<div class="figure" style="text-align: center">
+<img src="figures/Fig3_Schedule.png" alt="Table 1" width="70%" />
+<p class="caption">(\#fig:schedule)Table 1</p>
+</div>
+
 
 
 References
