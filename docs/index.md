@@ -1,7 +1,7 @@
 --- 
 title: "IMPaC-TB: Integrated analysis and dynamical systems modeling of experimental TB immunology data"
 author: "Brooke Anderson PhD, Mike Lyons PhD, Amy Fox, Burton Karger"
-date: "2019-12-05"
+date: "2019-12-12"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
