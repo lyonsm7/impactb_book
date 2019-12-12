@@ -22,12 +22,18 @@ measurements involving RNA expression and proteomics. The conceptual basis for
 our proposed data analysis and modeling framework is described in a summary
 of the recent National Institute of Allergy and Infectious Diseases (NIAID)
 workshop, ‘Complex Systems Science, Modeling and Immunity’ [1]. The
-major components of this framework are illustrated in Figure 1, where our
+major components of this framework are illustrated in Figure \@ref(fig:framework), where our
 approach will integrate experimental data with data-driven modeling to
 identify significant correlations and possible causal structures among the  data elements, and with mechanistic modeling of 
 cell-mediated immunity that translates biologically-based hypotheses into a 
 dynamical system of time-dependent mathematical equations that can be used to 
 simulate and test these hypotheses and to inform the design of subsequent experiments.
+
+<div class="figure">
+<img src="figures/Fig1.png" alt="Vodovotz et al." width="50%" />
+<p class="caption">(\#fig:framework)Vodovotz et al.</p>
+</div>
+
 
 The proposed work plan begins with the collection and organization of
 quantitative and qualitative CSU
