@@ -4,7 +4,7 @@ author: "Brooke Anderson PhD, Mike Lyons PhD, Amy Fox, Burton Karger"
 date: "2019-12-12"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: lyonsm7/impactb_book
@@ -14,5 +14,4 @@ description: "Impact lab guidebook"
 
 
 This is a laboratory guide book for the CSU IMPAC-TB experiments.
-
 
